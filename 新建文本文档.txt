@@ -1,0 +1,2 @@
+git remote set-url Study_myBatisPlus https://github.com/Mr-giraffe1/Study_myBatisPlus.git
+https://github.com/Mr-giraffe1/Study_myBatisPlus.git
